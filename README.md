@@ -12,8 +12,8 @@
 |----------|----------|
 | **This codebase** | [github.com/Mahatva777/ATX](https://github.com/Mahatva777/ATX) |
 | **Model weights** (`sr_best.pth`, `colorize_G_best.pth`, `colorize_D_last.pth`) | [Google Drive](https://drive.google.com/drive/folders/1TN0A_Vp4rMtlfKeF_baBdQPfBR0_GS4m?usp=sharing) |
-| **Technical presentation** | `BAH2026_PS10_Submission.pptx` (this repo) |
-| **Kaggle training notebook** | `arm2026.ipynb` (this repo) |
+| **Technical presentation** | [`BAH2026_PS10_ATX_Submission.pdf`](BAH2026_PS10_ATX_Submission.pdf) (this repo) |
+| **Kaggle training notebook** | [`arm2026.ipynb`](arm2026.ipynb) (this repo) |
 | **Sample outputs** | Inside model weights Drive folder → `output/model_outputs/` |
 
 ---
@@ -24,7 +24,7 @@
 ps10_project/
 │
 ├── arm2026.ipynb                  ← Kaggle T4 GPU training notebook (run this)
-├── BAH2026_PS10_Submission.pptx   ← Technical presentation
+├── BAH2026_PS10_ATX_Submission.pdf ← Technical presentation
 ├── README.md                      ← This file
 ├── README-2.md                    ← Original ISRO baseline README (problem spec)
 │
